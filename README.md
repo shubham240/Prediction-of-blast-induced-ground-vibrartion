@@ -1,0 +1,2 @@
+# Prediction-of-blast-induced-ground-vibrartion
+Different statistical models were applied to predict peak particle velocity generated during blasting operation using previous blasts data from a working site. Different blasting parameters were varied to found out parameters that influence PPV the most and appropriate measures were suggested to reduce vibrations. The mean absolute error of this model is 2.63.
